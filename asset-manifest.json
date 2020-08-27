@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/carloshrcardoso.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/carloshrcardoso.github.io/static/js/main.7a7d3b15.chunk.js",
-    "main.js.map": "/carloshrcardoso.github.io/static/js/main.7a7d3b15.chunk.js.map",
-    "runtime-main.js": "/carloshrcardoso.github.io/static/js/runtime-main.aa2a21af.js",
-    "runtime-main.js.map": "/carloshrcardoso.github.io/static/js/runtime-main.aa2a21af.js.map",
-    "static/js/2.4c736102.chunk.js": "/carloshrcardoso.github.io/static/js/2.4c736102.chunk.js",
-    "static/js/2.4c736102.chunk.js.map": "/carloshrcardoso.github.io/static/js/2.4c736102.chunk.js.map",
-    "index.html": "/carloshrcardoso.github.io/index.html",
-    "precache-manifest.79ae6111636bf68bcd051f842066045e.js": "/carloshrcardoso.github.io/precache-manifest.79ae6111636bf68bcd051f842066045e.js",
-    "service-worker.js": "/carloshrcardoso.github.io/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/carloshrcardoso.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.4c736102.chunk.js.LICENSE.txt": "/carloshrcardoso.github.io/static/js/2.4c736102.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/carloshrcardoso.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/home/static/css/main.5f361e03.chunk.css",
+    "main.js": "/home/static/js/main.2db6db7b.chunk.js",
+    "main.js.map": "/home/static/js/main.2db6db7b.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.c71ad327.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.c71ad327.js.map",
+    "static/js/2.4c736102.chunk.js": "/home/static/js/2.4c736102.chunk.js",
+    "static/js/2.4c736102.chunk.js.map": "/home/static/js/2.4c736102.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.d41a459251355469605c008b97d61086.js": "/home/precache-manifest.d41a459251355469605c008b97d61086.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/home/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4c736102.chunk.js.LICENSE.txt": "/home/static/js/2.4c736102.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/home/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa2a21af.js",
+    "static/js/runtime-main.c71ad327.js",
     "static/js/2.4c736102.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7a7d3b15.chunk.js"
+    "static/js/main.2db6db7b.chunk.js"
   ]
 }
