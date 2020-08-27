@@ -1,0 +1,103 @@
+
+.container{
+  width: 75%;
+  height: auto;
+  margin: auto;
+}
+
+
+/* Header */
+.header {
+  height: auto;
+  background-color: #ffffff;
+  font-size: calc(10px + 2vmin);
+  color: black;
+
+}
+
+.logo-text{
+  margin-top: 10px;
+  font-weight: 300;
+  font-size: 32px;
+  margin-bottom: auto;
+}
+
+
+/*Menu*/
+.menu a{
+  text-decoration: none;
+  color: black;
+}
+
+.menu{
+  margin-top: 15px;
+  margin-right: 35px;
+  display: inline-flex;
+  color: black;
+  font-weight: 300;
+  font-size: 22px;
+}
+
+.menu-item{
+  margin-left: 10px;
+}
+
+
+.logo-content{
+  display: inline-flex;
+}
+
+
+.logo {
+  margin-left: 15px;
+  height: 75px;
+  pointer-events: none;
+  text-align: center;
+}
+
+
+
+
+
+/* IN CONSTRUCTION PAGE */
+.App-header {
+  margin-top: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
