@@ -6,13 +6,20 @@ const Header = () =>{
     <div className="header">
         <div className="container">
             <div className="logo-content">
-                <img src={logo} className="logo" alt="logo" />
-                <span className="logo-text">Carlos hr. Cardoso</span>
+                <div className="logo-items">
+                    <img src={logo} className="logo" alt="logo" />
+                    <div className="logo-text">
+                        <span>Carlos hr. Cardoso</span>
+                        <p>Software Engineer</p>
+                    </div>
+                </div>
             </div>
             <div className="menu">
-                <div className="menu-item"><a href="#">About</a></div>
-                <div className="menu-item"><a href="#">Resume</a></div>
-                <div className="menu-item"><a href="#">Projects</a></div>
+                <div className="menu-items">
+                    <a href="#">About</a>
+                    <a href="#">Resume</a>
+                    <a href="#">Projects</a>
+                </div>
             </div>
         </div>
     </div>

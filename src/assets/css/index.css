@@ -16,10 +16,25 @@
 }
 
 .logo-text{
-  margin-top: 10px;
+  margin-top: 5px;
+  text-align: center;
+}
+
+
+.logo-text span{
   font-weight: 300;
   font-size: 32px;
   margin-bottom: auto;
+}
+
+.logo-text p{
+  margin: 0px;
+  font-weight: 300;
+  font-size: 20px;
+}
+
+.logo-items{
+  display: inline-flex;
 }
 
 
@@ -27,20 +42,22 @@
 .menu a{
   text-decoration: none;
   color: black;
+  margin-left: 10px;
+}
+
+.menu-items :hover{
+  text-decoration: underline;
 }
 
 .menu{
-  margin-top: 15px;
-  margin-right: 35px;
-  display: inline-flex;
+  margin-top: 20px;
+  float: right;
+  display: flex;
   color: black;
   font-weight: 300;
   font-size: 22px;
 }
 
-.menu-item{
-  margin-left: 10px;
-}
 
 
 .logo-content{

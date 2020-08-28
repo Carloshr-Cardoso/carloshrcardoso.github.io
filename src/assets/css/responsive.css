@@ -4,6 +4,22 @@
     .lg-7{width: 70%;}
     .lg-9{width: 90%;}
 
+    .header{
+        height: 15vh;
+    }
+
+    .menu{
+        margin: 15px auto;
+        width: 100%;
+        display: inline-flex;
+        color: black;
+        font-weight: 300;
+        font-size: 22px;
+      }
+
+      .menu-items{
+        margin: 0 auto;
+      }
 
 }
 
@@ -30,13 +46,27 @@
         width: 100%;
     }
 
+    .logo-items{
+        display: flex;
+        margin: 0 auto;
+    }
+
     .menu{
-        margin-right: 35px;
-        display: inline-flex;
+        display: flex;
         color: black;
+        width: 100%;
         font-weight: 300;
         font-size: 22px;
-      }
+    }
+
+    .menu-items{
+        margin: 0 auto;
+    }
+
+    .menu a {
+        margin-right: 15px;
+        margin-left: 15px;
+    }
 
 
 }
@@ -65,13 +95,6 @@
         margin-left: 35px;
     }
 
-    .menu{
-        margin-right: 55px;
-        float: right;
-        display: inline-flex;
-        color: black;
-        font-weight: 300;
-        font-size: 22px;
-      }
+    
 
 }
