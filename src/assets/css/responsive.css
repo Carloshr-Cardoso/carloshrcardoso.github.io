@@ -1,5 +1,71 @@
+@media screen and (max-width:300px){
+    .header{
+        height: 30vh;
+    }
+}
+
+
+@media screen and (min-width:301px) and (max-width:397px){
+    .header{
+        height: 21vh;
+    }
+
+    .container{
+        width: 95%;
+    }
+
+    .logo {
+        margin-left: 0px;
+        height: 95px;
+        pointer-events: none;
+        text-align: center;
+      }
+
+    .menu{
+        margin: 15px auto;
+        width: 100%;
+        display: inline-flex;
+        color: black;
+        font-weight: 300;
+        font-size: 22px;
+      }
+
+    .menu-items{
+        margin: 0 auto;
+    }
+
+    .menu a {
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+}
+
+@media screen and (min-width: 398px) and (max-width: 485px){
+    .header{
+        height: 21vh;
+    }
+
+    .menu{
+        margin: 15px auto;
+        width: 100%;
+        display: inline-flex;
+        color: black;
+        font-weight: 300;
+        font-size: 22px;
+      }
+
+    .menu-items{
+        margin: 0 auto;
+    }
+    .menu a {
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+}
+
+
 /* Responsividade P/ Celular */
- @media screen and (max-width: 600px) {
+ @media screen and (min-width:486px) and (max-width: 600px) {
     .lg-1{width: 10%;}
     .lg-7{width: 70%;}
     .lg-9{width: 90%;}
@@ -17,9 +83,14 @@
         font-size: 22px;
       }
 
-      .menu-items{
+    .menu-items{
         margin: 0 auto;
-      }
+    }
+
+    .menu a {
+        margin-right: 15px;
+        margin-left: 15px;
+    }
 
 }
 
@@ -33,7 +104,7 @@
     }
 
     .header{
-        height: 15vh;
+        height: 17vh;
         text-align: center;
     }
     .logo-text{
